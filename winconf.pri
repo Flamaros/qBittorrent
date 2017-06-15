@@ -3,7 +3,7 @@
 # Point this to the boost include folder
 INCLUDEPATH += $$quote(D:/Dev/Personal/qBittorrent/install_msvc/base/include)
 # Point this to the libtorrent include folder
-INCLUDEPATH += $$quote(D:/Dev/Personal/qBittorrent/install_msvc/base/include/boost-1_60)
+INCLUDEPATH += $$quote(D:/Dev/Personal/qBittorrent/install_msvc/base/include/boost-1_64)
 # Point this to the zlib include folder
 #INCLUDEPATH += $$quote(C:/qBittorrent/Zlib/include)
 # Point this to the openssl include folder
